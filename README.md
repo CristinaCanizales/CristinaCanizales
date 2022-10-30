@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://github.com/CristinaCanizales?tab=repositories">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'mCristina+Cañizales!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Cristina+Cañizales!;&center=true&size=30">
   </a>
 </h1>
 
