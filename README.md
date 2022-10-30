@@ -61,9 +61,9 @@
 
 <hr>
 
-<h2 align="center">My contribution graph 😋</h2>
+<!-- <h2 align="center">My contribution graph 😋</h2>
 
-![snake gif](https://github.com/CristinaCanizales/CristinaCanizales/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/CristinaCanizales/CristinaCanizales/blob/output/github-contribution-grid-snake.svg) -->
 
 <br><br><br><br><br><br>
 
